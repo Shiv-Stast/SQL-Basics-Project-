@@ -1,9 +1,9 @@
 SQL-Basics-Project/
 │
-├── README.md                 ← Describe your project in detail
+├── README.md                 ← Description of the project in detail
 │
 ├── dataset/                 
-│   └── dvdrental.tar         ← Upload the sample DB file (optional)
+│   └── dvdrental.tar       
 │
 ├── queries/
 │   ├── 01_select.sql
@@ -15,5 +15,5 @@ SQL-Basics-Project/
 │   └── 07_case_when.sql
 │
 └── analysis/
-    └── sales_summary_report.sql  ← Your mini project/report based on analysis
+    └── sales_summary_report.sql 
  
